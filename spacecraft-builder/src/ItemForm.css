@@ -1,0 +1,36 @@
+.item-form {
+    display: grid;
+    border: 2px solid white;
+    border-radius: 10px;
+
+}
+
+.item-form-input {
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    resize: none;
+    font-family: monospace;
+
+}
+
+.item-form-aux {
+    display: flex;
+    justify-content: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.item-form-btn {
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+h3 {
+    margin: 10px;
+}

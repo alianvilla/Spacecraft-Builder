@@ -1,0 +1,15 @@
+.spacecraft-builder {
+    color: white;
+    font-family: monospace;
+    display: grid;
+    margin: 0 auto;
+}
+
+.spacecraft-builder-title {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.spacecraft-builder-inventory-title {
+    padding-top: 15px;
+}

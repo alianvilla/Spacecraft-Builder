@@ -1,0 +1,9 @@
+.inventory-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
